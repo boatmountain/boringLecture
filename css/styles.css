@@ -1,12 +1,8 @@
-h2 .intro {
+.intro {
   font-style: italic;
 }
 
-p .intro {
-  font-style: oblique;
-}
-
-img .intro {
+.intro img {
   width:500px;
   height: 500px;
 }
