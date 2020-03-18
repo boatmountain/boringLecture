@@ -1,0 +1,13 @@
+h2 .intro {
+  font-style: italic;
+}
+
+p .intro {
+  font-style: oblique;
+}
+
+img .intro {
+  width:500px;
+  height: 500px;
+}
+
